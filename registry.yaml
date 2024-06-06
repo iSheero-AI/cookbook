@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=./.github/registry_schema.json
+
+# This file is used to generate Cookbook website. It specifies which paths we
+# should build pages for, and indicates metadata such as tags, creation date and
+# authors for each page.
+
+
+- title: Sample Notebook
+  path: examples/sample_notebook.ipynb
+  date: 2024-06-06
+  authors:
+    - beetho
+  tags:
+    - start
